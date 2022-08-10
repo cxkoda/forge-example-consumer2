@@ -4,3 +4,6 @@
 [submodule "lib/forge-example-consumer1"]
 	path = lib/forge-example-consumer1
 	url = https://github.com/cxkoda/forge-example-consumer1
+[submodule "lib/forge-example-lib"]
+	path = lib/forge-example-lib
+	url = https://github.com/cxkoda/forge-example-lib

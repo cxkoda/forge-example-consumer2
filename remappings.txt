@@ -1,0 +1,4 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-example-consumer1/=lib/forge-example-consumer1/src/
+forge-example-lib/=lib/forge-example-lib/src/
+forge-std/=lib/forge-std/src/
